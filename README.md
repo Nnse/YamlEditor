@@ -1,2 +1,3 @@
 # FileEditor
 様々な設定ファイルをGUIで編集できるようにするソフト
+PythonのTkinterを用いたサンプルソフト
